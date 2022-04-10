@@ -19,7 +19,6 @@ def main():
         
         reverse_n = reverseNum(prev_n)
         
-        # Display the result  
         print("The reverse number is: ", reverse_n)  
         
         next_n = prev_n + reverse_n
